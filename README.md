@@ -17,4 +17,4 @@ NxWeappRoute.switchTab()
 ```
 
 ## api list:
-![](https://ws1.sinaimg.cn/large/006tNbRwgy1fxrkhllntsj30oa0fwmz1.jpg)
+<img width="400" src="https://ws1.sinaimg.cn/large/006tNbRwgy1fxrkhllntsj30oa0fwmz1.jpg">
