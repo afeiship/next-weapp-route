@@ -1,6 +1,6 @@
 {
   "name": "next-weapp-route",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Route for weapp",
   "homepage": "https://github.com/afeiship/next-weapp-route",
   "author": {
@@ -27,6 +27,8 @@
     "mocha": "^3.5.0"
   },
   "dependencies": {
-    "next-js-core2": "github:afeiship/next-js-core2"
+    "next-js-core2": "github:afeiship/next-js-core2",
+    "next-param": "github:afeiship/next-param",
+    "next-wx-promisify": "github:afeiship/next-wx-promisify"
   }
 }
