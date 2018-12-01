@@ -1,0 +1,27 @@
+{
+  "name": "next-weapp-route",
+  "version": "0.0.1",
+  "description": "Route for weapp",
+  "main": "dist/next-weapp-route.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-weapp-route",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
