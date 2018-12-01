@@ -22,7 +22,7 @@
       back: function (inData) {
         this.route('navigateBack', null, inData);
       },
-      push: function (inUrl, inData) {
+      go: function (inUrl, inData) {
         this.route('navigateTo', inUrl, inData);
       },
       replace: function (inUrl, inData) {
